@@ -1,0 +1,93 @@
+from enum import Enum
+import random
+import time
+def GaussLacingForTriangle(p1,p2,p3):
+    return 0.5*abs(p1[0]*p2[1]+p2[0]*p3[1]+p3[0]*p1[1] - p1[1]*p2[0]
+    - p2[1]*p3[0] - p3[1]*p1[0])
+class Color(Enum):
+    RED = 1
+    ORANGE = 2
+    YELLOW = 3
+    GREEN = 4
+    BLUE = 5
+    DARKBLUE = 6
+    VIOLET = 7
+class Circle:
+    def __init__(self, radius=0, coord_of_center = (0,0), color = Color(1)):
+        self.radius = radius
+        self.center = coord_of_center
+        self.color = color
+    def area(self):
+        return 3.14*(self.radius**2)
+    def display_color(self):
+        return self.color
+
+class Rectangle:
+    def __init__(self, left_coord = (0,0), right_coord = (0,0), color = Color(1)):
+        self.left = left_coord
+        self.right = right_coord
+        self.color = color
+    def area(self):
+        return abs(self.right[1] - self.left[1])*abs(self.right[0] - self.left[0])
+    def display_color(self):
+        return self.color
+
+class Triangle:
+    def __init__(self, first = (0,0), second =(0,0), third =(0,0), color = Color(1)):
+        self.first = first
+        self.second = second
+        self.third = third
+        self.color = color
+    def area(self):
+        return GaussLacingForTriangle(self.first, self.second, self.third)
+    def display_color(self):
+        return self.color
+
+
+def CreateFile(n): #creating input file
+    f = open(f'FILE{n}.txt', "w+")
+    for i in range(n):
+        k = random.randint(0,2)
+        if k == 0:
+            line = "CIRCLE " + f" {random.randint(0,100)} {random.randint(0,100)} {random.randint(0,100)} {Color(random.randint(1,7)).name}"+"\n"
+            f.write(line)
+        elif k == 1:
+            line = "RECTANGLE " + f" {random.randint(0,100)} {random.randint(0,100)} {random.randint(0,100)} {random.randint(0,100)} {Color(random.randint(1,7)).name}"+"\n"
+            f.write(line)
+        elif k ==2:
+            line = "TRIANGLE " + f" {random.randint(0,100)} {random.randint(0,100)} {random.randint(0,100)} {random.randint(0,100)} {random.randint(0,100)} {random.randint(0,100)} {Color(random.randint(1,7)).name}" +"\n"
+            f.write(line)
+    f.close()
+def SortFile(n): #output file
+    f = open(f'SortedFILE{n}.txt', "w+", encoding = "utf8")
+    rf = open(f'FILE{n}.txt', "r")
+    f.write(f"Number of objects in file: {n}\n")
+    list_of_areas = []
+    for line in rf.readlines():
+        k = line.split()
+        if k[0]=="CIRCLE":
+            circle = Circle(int(k[1]), (int(k[2]), int(k[3])), Color[k[4]])
+            list_of_areas.append((f"Circle; Radius: {k[1]}; Coordinate of center: ({k[2]}, {k[3]}); Color: {k[4]}; Area: {circle.area()}",circle.area()))
+        elif k[0]=="RECTANGLE":
+            rectangle = Rectangle((int(k[1]), int(k[2])), (int(k[3]), int(k[4])), Color[k[5]])
+            list_of_areas.append((f"Rectangle; Coordinate of left angle: ({k[1]}, {k[2]}); Coordinate of right angle: ({k[3]}, {k[4]}); Color: ({k[5]}); Area: {rectangle.area()}",rectangle.area()))
+        elif k[0]=="TRIANGLE":
+            triangle = Triangle((int(k[1]), int(k[2])), (int(k[3]), int(k[4])), (int(k[5]), int(k[6])), Color[k[7]])
+            list_of_areas.append((f"Triangle; Coordinate of first angle: ({k[1]},{k[2]}); Coordinate of second angle: ({k[3]}, {k[4]}); Coordinate of third angle: ({k[5]}, {k[6]}); Color: {k[7]}; Area: {triangle.area()}", triangle.area()))
+    for i in range(len(list_of_areas)-1):
+        for j in range(len(list_of_areas)-i-1):
+            if list_of_areas[j][1] > list_of_areas[j+1][1]:
+                list_of_areas[j], list_of_areas[j+1] = list_of_areas[j+1], list_of_areas[j]
+    for i in list_of_areas:
+        f.write(i[0]+'\n')
+    f.close()
+    rf.close()
+start_time = time.time()
+print("Введите размер файла (10,100,250,500)")
+# n=100 #без ввода пользователя
+n = int(input())
+if n not in [10,100,250,500]:
+    print("Неверный размер файла")
+    exit()
+SortFile(n)
+print(time.time() - start_time)

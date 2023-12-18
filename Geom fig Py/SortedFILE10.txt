@@ -1,0 +1,11 @@
+Number of objects in file: 10
+Rectangle; Coordinate of left angle: (71, 19); Coordinate of right angle: (75, 20); Color: (BLUE); Area: 4
+Triangle; Coordinate of first angle: (98,61); Coordinate of second angle: (99, 10); Coordinate of third angle: (93, 51); Color: YELLOW; Area: 132.5
+Triangle; Coordinate of first angle: (75,79); Coordinate of second angle: (42, 91); Coordinate of third angle: (8, 90); Color: VIOLET; Area: 220.5
+Circle; Radius: 11; Coordinate of center: (3, 42); Color: BLUE; Area: 379.94
+Rectangle; Coordinate of left angle: (51, 5); Coordinate of right angle: (41, 49); Color: (BLUE); Area: 440
+Triangle; Coordinate of first angle: (48,69); Coordinate of second angle: (89, 18); Coordinate of third angle: (28, 54); Color: VIOLET; Area: 817.5
+Rectangle; Coordinate of left angle: (30, 11); Coordinate of right angle: (50, 69); Color: (YELLOW); Area: 1160
+Triangle; Coordinate of first angle: (65,4); Coordinate of second angle: (6, 28); Coordinate of third angle: (1, 74); Color: GREEN; Area: 1297.0
+Circle; Radius: 39; Coordinate of center: (74, 93); Color: RED; Area: 4775.9400000000005
+Circle; Radius: 87; Coordinate of center: (91, 18); Color: DARKBLUE; Area: 23766.66
