@@ -1,0 +1,11 @@
+Number of objects in file: 10
+Rectangle Coordinate of left corner: (69, 78) Coordinate of right corner: (37, 72) Color: RED Area: 192
+Rectangle Coordinate of left corner: (54, 15) Coordinate of right corner: (47, 45) Color: BLUE Area: 210
+Rectangle Coordinate of left corner: (13, 89) Coordinate of right corner: (19, 16) Color: RED Area: 438
+Rectangle Coordinate of left corner: (8, 73) Coordinate of right corner: (51, 88) Color: VIOLET Area: 645
+Rectangle Coordinate of left corner: (14, 27) Coordinate of right corner: (85, 14) Color: BLUE Area: 923
+Rectangle Coordinate of left corner: (56, 89) Coordinate of right corner: (26, 43) Color: ORANGE Area: 1380
+CIRCLE Radius: 40 Coordinate of center: (77, 25) Color: VIOLET Area: 5024
+CIRCLE Radius: 40 Coordinate of center: (92, 12) Color: ORANGE Area: 5024
+Rectangle Coordinate of left corner: (97, 15) Coordinate of right corner: (15, 89) Color: DARKBLUE Area: 6068
+CIRCLE Radius: 71 Coordinate of center: (4, 5) Color: RED Area: 15828
