@@ -1,0 +1,251 @@
+Number of objects in file: 250
+Rectangle Coordinate of left corner: (57, 3) Coordinate of right corner: (57, 55) Color: ORANGE Area: 0
+Triangle Coordinate of first angle: (50, 93) Coordinate of second angle: (59, 40) Coordinate of third angle: (56, 58) Color: RED Area: 1
+Triangle Coordinate of first angle: (69, 31) Coordinate of second angle: (57, 52) Coordinate of third angle: (65, 39) Color: RED Area: 6
+Rectangle Coordinate of left corner: (14, 77) Coordinate of right corner: (12, 81) Color: YELLOW Area: 8
+CIRCLE Radius: 2 Coordinate of center: (63, 99) Color: DARKBLUE Area: 12
+CIRCLE Radius: 2 Coordinate of center: (52, 30) Color: BLUE Area: 12
+Triangle Coordinate of first angle: (57, 13) Coordinate of second angle: (53, 48) Coordinate of third angle: (53, 59) Color: BLUE Area: 22
+Rectangle Coordinate of left corner: (43, 40) Coordinate of right corner: (42, 18) Color: YELLOW Area: 22
+CIRCLE Radius: 4 Coordinate of center: (15, 91) Color: YELLOW Area: 50
+Rectangle Coordinate of left corner: (40, 22) Coordinate of right corner: (27, 26) Color: DARKBLUE Area: 52
+Rectangle Coordinate of left corner: (69, 49) Coordinate of right corner: (72, 31) Color: ORANGE Area: 54
+Rectangle Coordinate of left corner: (11, 28) Coordinate of right corner: (3, 35) Color: YELLOW Area: 56
+Triangle Coordinate of first angle: (77, 60) Coordinate of second angle: (77, 79) Coordinate of third angle: (71, 60) Color: ORANGE Area: 57
+Triangle Coordinate of first angle: (31, 84) Coordinate of second angle: (24, 87) Coordinate of third angle: (69, 86) Color: RED Area: 64
+Rectangle Coordinate of left corner: (15, 4) Coordinate of right corner: (23, 12) Color: YELLOW Area: 64
+Rectangle Coordinate of left corner: (81, 7) Coordinate of right corner: (85, 24) Color: BLUE Area: 68
+Rectangle Coordinate of left corner: (75, 79) Coordinate of right corner: (77, 45) Color: BLUE Area: 68
+Triangle Coordinate of first angle: (34, 86) Coordinate of second angle: (75, 50) Coordinate of third angle: (96, 35) Color: GREEN Area: 70
+Rectangle Coordinate of left corner: (54, 57) Coordinate of right corner: (59, 76) Color: GREEN Area: 95
+Rectangle Coordinate of left corner: (81, 4) Coordinate of right corner: (48, 7) Color: VIOLET Area: 99
+Rectangle Coordinate of left corner: (45, 91) Coordinate of right corner: (70, 87) Color: VIOLET Area: 100
+Rectangle Coordinate of left corner: (96, 9) Coordinate of right corner: (98, 62) Color: GREEN Area: 106
+Rectangle Coordinate of left corner: (71, 86) Coordinate of right corner: (49, 81) Color: VIOLET Area: 110
+Triangle Coordinate of first angle: (48, 81) Coordinate of second angle: (38, 80) Coordinate of third angle: (1, 99) Color: VIOLET Area: 113
+CIRCLE Radius: 6 Coordinate of center: (73, 12) Color: BLUE Area: 113
+Rectangle Coordinate of left corner: (42, 27) Coordinate of right corner: (86, 24) Color: VIOLET Area: 132
+Triangle Coordinate of first angle: (88, 54) Coordinate of second angle: (65, 58) Coordinate of third angle: (14, 54) Color: VIOLET Area: 148
+Rectangle Coordinate of left corner: (45, 71) Coordinate of right corner: (76, 66) Color: DARKBLUE Area: 155
+Triangle Coordinate of first angle: (79, 92) Coordinate of second angle: (74, 69) Coordinate of third angle: (60, 68) Color: ORANGE Area: 158
+Triangle Coordinate of first angle: (61, 66) Coordinate of second angle: (29, 85) Coordinate of third angle: (76, 68) Color: DARKBLUE Area: 174
+Rectangle Coordinate of left corner: (26, 57) Coordinate of right corner: (1, 50) Color: YELLOW Area: 175
+Rectangle Coordinate of left corner: (0, 67) Coordinate of right corner: (23, 59) Color: RED Area: 184
+Triangle Coordinate of first angle: (6, 59) Coordinate of second angle: (14, 60) Coordinate of third angle: (31, 15) Color: VIOLET Area: 188
+Rectangle Coordinate of left corner: (99, 2) Coordinate of right corner: (73, 10) Color: BLUE Area: 208
+Triangle Coordinate of first angle: (7, 38) Coordinate of second angle: (19, 48) Coordinate of third angle: (40, 29) Color: VIOLET Area: 219
+Triangle Coordinate of first angle: (75, 74) Coordinate of second angle: (67, 88) Coordinate of third angle: (51, 54) Color: ORANGE Area: 248
+Triangle Coordinate of first angle: (61, 90) Coordinate of second angle: (56, 52) Coordinate of third angle: (38, 16) Color: RED Area: 252
+Rectangle Coordinate of left corner: (39, 38) Coordinate of right corner: (53, 56) Color: YELLOW Area: 252
+Triangle Coordinate of first angle: (47, 22) Coordinate of second angle: (2, 28) Coordinate of third angle: (87, 28) Color: BLUE Area: 255
+Triangle Coordinate of first angle: (74, 85) Coordinate of second angle: (73, 69) Coordinate of third angle: (38, 23) Color: RED Area: 257
+Triangle Coordinate of first angle: (94, 26) Coordinate of second angle: (81, 97) Coordinate of third angle: (99, 39) Color: RED Area: 262
+Triangle Coordinate of first angle: (30, 98) Coordinate of second angle: (62, 10) Coordinate of third angle: (56, 10) Color: GREEN Area: 264
+Rectangle Coordinate of left corner: (24, 82) Coordinate of right corner: (20, 16) Color: YELLOW Area: 264
+Triangle Coordinate of first angle: (43, 69) Coordinate of second angle: (28, 80) Coordinate of third angle: (23, 48) Color: RED Area: 267
+Rectangle Coordinate of left corner: (42, 60) Coordinate of right corner: (57, 42) Color: ORANGE Area: 270
+Triangle Coordinate of first angle: (11, 64) Coordinate of second angle: (75, 13) Coordinate of third angle: (42, 48) Color: ORANGE Area: 278
+Rectangle Coordinate of left corner: (66, 62) Coordinate of right corner: (71, 3) Color: VIOLET Area: 295
+Triangle Coordinate of first angle: (25, 93) Coordinate of second angle: (36, 84) Coordinate of third angle: (29, 36) Color: ORANGE Area: 295
+Triangle Coordinate of first angle: (96, 30) Coordinate of second angle: (5, 34) Coordinate of third angle: (45, 39) Color: VIOLET Area: 307
+Rectangle Coordinate of left corner: (69, 54) Coordinate of right corner: (45, 67) Color: ORANGE Area: 312
+Triangle Coordinate of first angle: (42, 50) Coordinate of second angle: (79, 10) Coordinate of third angle: (50, 24) Color: BLUE Area: 321
+Triangle Coordinate of first angle: (55, 46) Coordinate of second angle: (16, 77) Coordinate of third angle: (77, 11) Color: RED Area: 341
+Rectangle Coordinate of left corner: (5, 20) Coordinate of right corner: (19, 45) Color: DARKBLUE Area: 350
+Rectangle Coordinate of left corner: (96, 1) Coordinate of right corner: (86, 36) Color: ORANGE Area: 350
+CIRCLE Radius: 11 Coordinate of center: (19, 19) Color: BLUE Area: 379
+Triangle Coordinate of first angle: (43, 6) Coordinate of second angle: (73, 44) Coordinate of third angle: (85, 85) Color: ORANGE Area: 387
+Rectangle Coordinate of left corner: (64, 66) Coordinate of right corner: (75, 30) Color: VIOLET Area: 396
+Triangle Coordinate of first angle: (25, 72) Coordinate of second angle: (65, 59) Coordinate of third angle: (74, 35) Color: GREEN Area: 421
+Triangle Coordinate of first angle: (61, 84) Coordinate of second angle: (49, 87) Coordinate of third angle: (22, 23) Color: GREEN Area: 424
+Triangle Coordinate of first angle: (38, 62) Coordinate of second angle: (6, 29) Coordinate of third angle: (91, 90) Color: GREEN Area: 426
+Rectangle Coordinate of left corner: (18, 9) Coordinate of right corner: (2, 36) Color: DARKBLUE Area: 432
+Triangle Coordinate of first angle: (0, 59) Coordinate of second angle: (68, 48) Coordinate of third angle: (24, 42) Color: DARKBLUE Area: 446
+CIRCLE Radius: 12 Coordinate of center: (53, 36) Color: DARKBLUE Area: 452
+Rectangle Coordinate of left corner: (8, 41) Coordinate of right corner: (43, 28) Color: RED Area: 455
+Rectangle Coordinate of left corner: (55, 58) Coordinate of right corner: (77, 37) Color: RED Area: 462
+Rectangle Coordinate of left corner: (28, 35) Coordinate of right corner: (37, 87) Color: DARKBLUE Area: 468
+Triangle Coordinate of first angle: (43, 23) Coordinate of second angle: (38, 70) Coordinate of third angle: (59, 61) Color: BLUE Area: 471
+Triangle Coordinate of first angle: (30, 54) Coordinate of second angle: (19, 27) Coordinate of third angle: (60, 41) Color: GREEN Area: 476
+Triangle Coordinate of first angle: (91, 85) Coordinate of second angle: (23, 58) Coordinate of third angle: (4, 36) Color: YELLOW Area: 491
+Triangle Coordinate of first angle: (2, 90) Coordinate of second angle: (65, 91) Coordinate of third angle: (41, 75) Color: GREEN Area: 492
+CIRCLE Radius: 13 Coordinate of center: (63, 78) Color: YELLOW Area: 530
+Triangle Coordinate of first angle: (23, 2) Coordinate of second angle: (24, 56) Coordinate of third angle: (44, 40) Color: YELLOW Area: 548
+Rectangle Coordinate of left corner: (0, 19) Coordinate of right corner: (69, 27) Color: YELLOW Area: 552
+Rectangle Coordinate of left corner: (46, 28) Coordinate of right corner: (0, 40) Color: DARKBLUE Area: 552
+Rectangle Coordinate of left corner: (41, 53) Coordinate of right corner: (82, 39) Color: YELLOW Area: 574
+Triangle Coordinate of first angle: (86, 93) Coordinate of second angle: (7, 19) Coordinate of third angle: (0, 27) Color: BLUE Area: 575
+Triangle Coordinate of first angle: (59, 93) Coordinate of second angle: (25, 47) Coordinate of third angle: (42, 36) Color: ORANGE Area: 578
+Triangle Coordinate of first angle: (43, 93) Coordinate of second angle: (7, 96) Coordinate of third angle: (73, 58) Color: RED Area: 585
+Triangle Coordinate of first angle: (98, 82) Coordinate of second angle: (39, 90) Coordinate of third angle: (30, 71) Color: BLUE Area: 596
+Triangle Coordinate of first angle: (3, 13) Coordinate of second angle: (88, 68) Coordinate of third angle: (40, 51) Color: RED Area: 597
+Rectangle Coordinate of left corner: (76, 29) Coordinate of right corner: (53, 55) Color: GREEN Area: 598
+CIRCLE Radius: 14 Coordinate of center: (72, 32) Color: VIOLET Area: 615
+CIRCLE Radius: 14 Coordinate of center: (74, 43) Color: DARKBLUE Area: 615
+Rectangle Coordinate of left corner: (48, 62) Coordinate of right corner: (11, 45) Color: RED Area: 629
+Triangle Coordinate of first angle: (96, 75) Coordinate of second angle: (55, 41) Coordinate of third angle: (73, 25) Color: VIOLET Area: 634
+Triangle Coordinate of first angle: (81, 66) Coordinate of second angle: (34, 31) Coordinate of third angle: (79, 37) Color: BLUE Area: 646
+Rectangle Coordinate of left corner: (91, 63) Coordinate of right corner: (65, 89) Color: GREEN Area: 676
+Triangle Coordinate of first angle: (46, 78) Coordinate of second angle: (92, 74) Coordinate of third angle: (53, 47) Color: RED Area: 699
+Rectangle Coordinate of left corner: (3, 62) Coordinate of right corner: (31, 87) Color: BLUE Area: 700
+Rectangle Coordinate of left corner: (1, 16) Coordinate of right corner: (72, 6) Color: YELLOW Area: 710
+Triangle Coordinate of first angle: (33, 45) Coordinate of second angle: (33, 90) Coordinate of third angle: (65, 72) Color: YELLOW Area: 720
+Triangle Coordinate of first angle: (75, 43) Coordinate of second angle: (76, 74) Coordinate of third angle: (29, 72) Color: BLUE Area: 727
+Rectangle Coordinate of left corner: (24, 86) Coordinate of right corner: (85, 74) Color: DARKBLUE Area: 732
+Rectangle Coordinate of left corner: (46, 45) Coordinate of right corner: (78, 68) Color: VIOLET Area: 736
+Triangle Coordinate of first angle: (94, 90) Coordinate of second angle: (24, 57) Coordinate of third angle: (65, 55) Color: RED Area: 746
+Triangle Coordinate of first angle: (39, 39) Coordinate of second angle: (58, 73) Coordinate of third angle: (71, 17) Color: ORANGE Area: 753
+Rectangle Coordinate of left corner: (17, 10) Coordinate of right corner: (30, 68) Color: BLUE Area: 754
+Rectangle Coordinate of left corner: (91, 28) Coordinate of right corner: (63, 1) Color: ORANGE Area: 756
+Triangle Coordinate of first angle: (85, 36) Coordinate of second angle: (34, 62) Coordinate of third angle: (71, 73) Color: GREEN Area: 761
+Triangle Coordinate of first angle: (71, 74) Coordinate of second angle: (81, 29) Coordinate of third angle: (35, 81) Color: BLUE Area: 775
+Triangle Coordinate of first angle: (83, 30) Coordinate of second angle: (45, 56) Coordinate of third angle: (42, 17) Color: YELLOW Area: 780
+Rectangle Coordinate of left corner: (16, 3) Coordinate of right corner: (38, 39) Color: ORANGE Area: 792
+Rectangle Coordinate of left corner: (34, 16) Coordinate of right corner: (46, 82) Color: DARKBLUE Area: 792
+Rectangle Coordinate of left corner: (86, 12) Coordinate of right corner: (24, 25) Color: VIOLET Area: 806
+Triangle Coordinate of first angle: (34, 78) Coordinate of second angle: (69, 34) Coordinate of third angle: (8, 63) Color: GREEN Area: 834
+Rectangle Coordinate of left corner: (38, 96) Coordinate of right corner: (28, 12) Color: YELLOW Area: 840
+Triangle Coordinate of first angle: (94, 37) Coordinate of second angle: (14, 26) Coordinate of third angle: (97, 59) Color: VIOLET Area: 863
+Triangle Coordinate of first angle: (75, 93) Coordinate of second angle: (96, 94) Coordinate of third angle: (23, 8) Color: DARKBLUE Area: 866
+Triangle Coordinate of first angle: (13, 75) Coordinate of second angle: (70, 56) Coordinate of third angle: (29, 39) Color: ORANGE Area: 874
+Rectangle Coordinate of left corner: (12, 38) Coordinate of right corner: (52, 60) Color: BLUE Area: 880
+Triangle Coordinate of first angle: (75, 15) Coordinate of second angle: (61, 88) Coordinate of third angle: (37, 87) Color: ORANGE Area: 883
+Rectangle Coordinate of left corner: (39, 10) Coordinate of right corner: (99, 25) Color: YELLOW Area: 900
+Triangle Coordinate of first angle: (81, 39) Coordinate of second angle: (40, 46) Coordinate of third angle: (99, 80) Color: GREEN Area: 903
+CIRCLE Radius: 17 Coordinate of center: (78, 92) Color: GREEN Area: 907
+CIRCLE Radius: 17 Coordinate of center: (50, 39) Color: VIOLET Area: 907
+Rectangle Coordinate of left corner: (44, 40) Coordinate of right corner: (68, 78) Color: BLUE Area: 912
+Triangle Coordinate of first angle: (15, 94) Coordinate of second angle: (78, 78) Coordinate of third angle: (54, 55) Color: RED Area: 916
+Triangle Coordinate of first angle: (46, 5) Coordinate of second angle: (11, 61) Coordinate of third angle: (65, 27) Color: GREEN Area: 917
+Triangle Coordinate of first angle: (53, 24) Coordinate of second angle: (65, 88) Coordinate of third angle: (33, 71) Color: ORANGE Area: 922
+Rectangle Coordinate of left corner: (51, 20) Coordinate of right corner: (35, 79) Color: VIOLET Area: 944
+Triangle Coordinate of first angle: (37, 2) Coordinate of second angle: (67, 31) Coordinate of third angle: (62, 90) Color: VIOLET Area: 957
+Rectangle Coordinate of left corner: (66, 50) Coordinate of right corner: (22, 27) Color: GREEN Area: 1012
+CIRCLE Radius: 18 Coordinate of center: (97, 75) Color: GREEN Area: 1017
+CIRCLE Radius: 18 Coordinate of center: (33, 22) Color: GREEN Area: 1017
+CIRCLE Radius: 18 Coordinate of center: (75, 13) Color: VIOLET Area: 1017
+CIRCLE Radius: 18 Coordinate of center: (89, 27) Color: GREEN Area: 1017
+Rectangle Coordinate of left corner: (16, 84) Coordinate of right corner: (46, 50) Color: VIOLET Area: 1020
+Triangle Coordinate of first angle: (1, 62) Coordinate of second angle: (86, 52) Coordinate of third angle: (39, 82) Color: GREEN Area: 1040
+Triangle Coordinate of first angle: (92, 2) Coordinate of second angle: (24, 6) Coordinate of third angle: (87, 33) Color: ORANGE Area: 1044
+Triangle Coordinate of first angle: (69, 44) Coordinate of second angle: (15, 77) Coordinate of third angle: (23, 33) Color: VIOLET Area: 1056
+Triangle Coordinate of first angle: (65, 12) Coordinate of second angle: (81, 65) Coordinate of third angle: (30, 32) Color: VIOLET Area: 1087
+Triangle Coordinate of first angle: (54, 22) Coordinate of second angle: (0, 43) Coordinate of third angle: (54, 63) Color: BLUE Area: 1107
+Triangle Coordinate of first angle: (19, 42) Coordinate of second angle: (72, 38) Coordinate of third angle: (29, 84) Color: DARKBLUE Area: 1133
+Rectangle Coordinate of left corner: (12, 65) Coordinate of right corner: (39, 21) Color: VIOLET Area: 1188
+Rectangle Coordinate of left corner: (99, 84) Coordinate of right corner: (31, 66) Color: YELLOW Area: 1224
+Rectangle Coordinate of left corner: (91, 11) Coordinate of right corner: (61, 53) Color: VIOLET Area: 1260
+Rectangle Coordinate of left corner: (11, 20) Coordinate of right corner: (58, 47) Color: GREEN Area: 1269
+Triangle Coordinate of first angle: (19, 95) Coordinate of second angle: (3, 39) Coordinate of third angle: (56, 61) Color: RED Area: 1308
+Triangle Coordinate of first angle: (61, 32) Coordinate of second angle: (92, 92) Coordinate of third angle: (10, 18) Color: GREEN Area: 1313
+Rectangle Coordinate of left corner: (16, 40) Coordinate of right corner: (51, 78) Color: VIOLET Area: 1330
+Rectangle Coordinate of left corner: (91, 27) Coordinate of right corner: (63, 76) Color: VIOLET Area: 1372
+CIRCLE Radius: 21 Coordinate of center: (42, 48) Color: GREEN Area: 1384
+Rectangle Coordinate of left corner: (92, 24) Coordinate of right corner: (65, 77) Color: VIOLET Area: 1431
+Rectangle Coordinate of left corner: (28, 38) Coordinate of right corner: (68, 74) Color: BLUE Area: 1440
+Triangle Coordinate of first angle: (36, 17) Coordinate of second angle: (12, 75) Coordinate of third angle: (52, 99) Color: ORANGE Area: 1448
+Rectangle Coordinate of left corner: (24, 47) Coordinate of right corner: (71, 16) Color: BLUE Area: 1457
+Triangle Coordinate of first angle: (78, 33) Coordinate of second angle: (22, 98) Coordinate of third angle: (20, 48) Color: ORANGE Area: 1465
+Rectangle Coordinate of left corner: (62, 26) Coordinate of right corner: (24, 65) Color: YELLOW Area: 1482
+Triangle Coordinate of first angle: (53, 4) Coordinate of second angle: (17, 70) Coordinate of third angle: (60, 74) Color: RED Area: 1491
+Rectangle Coordinate of left corner: (31, 52) Coordinate of right corner: (66, 9) Color: BLUE Area: 1505
+Triangle Coordinate of first angle: (1, 17) Coordinate of second angle: (77, 85) Coordinate of third angle: (30, 3) Color: YELLOW Area: 1518
+CIRCLE Radius: 22 Coordinate of center: (88, 17) Color: ORANGE Area: 1519
+CIRCLE Radius: 22 Coordinate of center: (92, 67) Color: YELLOW Area: 1519
+Triangle Coordinate of first angle: (35, 92) Coordinate of second angle: (22, 61) Coordinate of third angle: (97, 2) Color: GREEN Area: 1546
+Rectangle Coordinate of left corner: (63, 85) Coordinate of right corner: (20, 49) Color: VIOLET Area: 1548
+Triangle Coordinate of first angle: (2, 14) Coordinate of second angle: (98, 68) Coordinate of third angle: (33, 65) Color: ORANGE Area: 1611
+Triangle Coordinate of first angle: (88, 3) Coordinate of second angle: (43, 17) Coordinate of third angle: (58, 86) Color: DARKBLUE Area: 1657
+CIRCLE Radius: 23 Coordinate of center: (39, 21) Color: BLUE Area: 1661
+Triangle Coordinate of first angle: (27, 80) Coordinate of second angle: (87, 50) Coordinate of third angle: (40, 17) Color: ORANGE Area: 1695
+Triangle Coordinate of first angle: (94, 80) Coordinate of second angle: (32, 59) Coordinate of third angle: (41, 7) Color: ORANGE Area: 1706
+CIRCLE Radius: 24 Coordinate of center: (95, 20) Color: DARKBLUE Area: 1808
+CIRCLE Radius: 24 Coordinate of center: (9, 43) Color: YELLOW Area: 1808
+Triangle Coordinate of first angle: (5, 97) Coordinate of second angle: (58, 73) Coordinate of third angle: (33, 15) Color: GREEN Area: 1837
+Triangle Coordinate of first angle: (9, 7) Coordinate of second angle: (70, 95) Coordinate of third angle: (98, 71) Color: BLUE Area: 1964
+Triangle Coordinate of first angle: (91, 77) Coordinate of second angle: (32, 81) Coordinate of third angle: (43, 12) Color: BLUE Area: 2013
+Rectangle Coordinate of left corner: (13, 12) Coordinate of right corner: (95, 38) Color: ORANGE Area: 2132
+Triangle Coordinate of first angle: (29, 12) Coordinate of second angle: (25, 87) Coordinate of third angle: (84, 49) Color: BLUE Area: 2136
+Triangle Coordinate of first angle: (73, 98) Coordinate of second angle: (31, 14) Coordinate of third angle: (88, 26) Color: DARKBLUE Area: 2142
+Triangle Coordinate of first angle: (85, 33) Coordinate of second angle: (9, 98) Coordinate of third angle: (94, 83) Color: BLUE Area: 2192
+Triangle Coordinate of first angle: (3, 39) Coordinate of second angle: (94, 47) Coordinate of third angle: (56, 92) Color: RED Area: 2199
+CIRCLE Radius: 27 Coordinate of center: (61, 34) Color: ORANGE Area: 2289
+Triangle Coordinate of first angle: (88, 73) Coordinate of second angle: (43, 7) Coordinate of third angle: (8, 60) Color: DARKBLUE Area: 2347
+CIRCLE Radius: 28 Coordinate of center: (26, 23) Color: DARKBLUE Area: 2461
+CIRCLE Radius: 28 Coordinate of center: (83, 70) Color: RED Area: 2461
+Rectangle Coordinate of left corner: (60, 29) Coordinate of right corner: (8, 78) Color: YELLOW Area: 2548
+Rectangle Coordinate of left corner: (14, 80) Coordinate of right corner: (58, 21) Color: BLUE Area: 2596
+Rectangle Coordinate of left corner: (58, 27) Coordinate of right corner: (99, 91) Color: RED Area: 2624
+Rectangle Coordinate of left corner: (59, 11) Coordinate of right corner: (94, 86) Color: RED Area: 2625
+Triangle Coordinate of first angle: (2, 24) Coordinate of second angle: (43, 92) Coordinate of third angle: (98, 55) Color: YELLOW Area: 2628
+CIRCLE Radius: 29 Coordinate of center: (69, 67) Color: VIOLET Area: 2640
+CIRCLE Radius: 30 Coordinate of center: (13, 87) Color: BLUE Area: 2826
+CIRCLE Radius: 30 Coordinate of center: (41, 5) Color: DARKBLUE Area: 2826
+CIRCLE Radius: 30 Coordinate of center: (15, 30) Color: BLUE Area: 2826
+Triangle Coordinate of first angle: (46, 91) Coordinate of second angle: (88, 21) Coordinate of third angle: (15, 3) Color: ORANGE Area: 2933
+CIRCLE Radius: 31 Coordinate of center: (74, 45) Color: YELLOW Area: 3017
+CIRCLE Radius: 31 Coordinate of center: (51, 67) Color: YELLOW Area: 3017
+Rectangle Coordinate of left corner: (96, 45) Coordinate of right corner: (33, 93) Color: RED Area: 3024
+CIRCLE Radius: 32 Coordinate of center: (32, 8) Color: BLUE Area: 3215
+Rectangle Coordinate of left corner: (96, 12) Coordinate of right corner: (38, 68) Color: DARKBLUE Area: 3248
+Triangle Coordinate of first angle: (1, 65) Coordinate of second angle: (99, 78) Coordinate of third angle: (65, 6) Color: RED Area: 3307
+CIRCLE Radius: 34 Coordinate of center: (29, 32) Color: ORANGE Area: 3629
+CIRCLE Radius: 35 Coordinate of center: (91, 80) Color: VIOLET Area: 3846
+CIRCLE Radius: 35 Coordinate of center: (84, 73) Color: VIOLET Area: 3846
+CIRCLE Radius: 36 Coordinate of center: (40, 47) Color: DARKBLUE Area: 4069
+CIRCLE Radius: 36 Coordinate of center: (80, 18) Color: VIOLET Area: 4069
+CIRCLE Radius: 36 Coordinate of center: (4, 39) Color: YELLOW Area: 4069
+Rectangle Coordinate of left corner: (99, 8) Coordinate of right corner: (16, 59) Color: GREEN Area: 4233
+CIRCLE Radius: 37 Coordinate of center: (30, 0) Color: GREEN Area: 4298
+CIRCLE Radius: 38 Coordinate of center: (18, 81) Color: ORANGE Area: 4534
+Rectangle Coordinate of left corner: (15, 17) Coordinate of right corner: (95, 76) Color: RED Area: 4720
+CIRCLE Radius: 39 Coordinate of center: (63, 78) Color: GREEN Area: 4775
+CIRCLE Radius: 39 Coordinate of center: (83, 48) Color: DARKBLUE Area: 4775
+Rectangle Coordinate of left corner: (1, 63) Coordinate of right corner: (83, 4) Color: RED Area: 4838
+CIRCLE Radius: 40 Coordinate of center: (74, 99) Color: BLUE Area: 5024
+CIRCLE Radius: 41 Coordinate of center: (1, 74) Color: YELLOW Area: 5278
+CIRCLE Radius: 42 Coordinate of center: (82, 79) Color: RED Area: 5538
+CIRCLE Radius: 43 Coordinate of center: (94, 90) Color: RED Area: 5805
+CIRCLE Radius: 43 Coordinate of center: (2, 32) Color: YELLOW Area: 5805
+CIRCLE Radius: 44 Coordinate of center: (2, 33) Color: VIOLET Area: 6079
+CIRCLE Radius: 44 Coordinate of center: (80, 23) Color: ORANGE Area: 6079
+CIRCLE Radius: 46 Coordinate of center: (24, 95) Color: BLUE Area: 6644
+CIRCLE Radius: 47 Coordinate of center: (72, 95) Color: GREEN Area: 6936
+Rectangle Coordinate of left corner: (0, 3) Coordinate of right corner: (86, 90) Color: DARKBLUE Area: 7482
+CIRCLE Radius: 49 Coordinate of center: (87, 30) Color: RED Area: 7539
+CIRCLE Radius: 49 Coordinate of center: (30, 9) Color: YELLOW Area: 7539
+CIRCLE Radius: 50 Coordinate of center: (29, 98) Color: ORANGE Area: 7850
+CIRCLE Radius: 51 Coordinate of center: (83, 2) Color: ORANGE Area: 8167
+CIRCLE Radius: 52 Coordinate of center: (23, 39) Color: BLUE Area: 8490
+CIRCLE Radius: 54 Coordinate of center: (69, 18) Color: ORANGE Area: 9156
+CIRCLE Radius: 56 Coordinate of center: (16, 56) Color: YELLOW Area: 9847
+CIRCLE Radius: 57 Coordinate of center: (85, 76) Color: YELLOW Area: 10201
+CIRCLE Radius: 57 Coordinate of center: (33, 22) Color: YELLOW Area: 10201
+CIRCLE Radius: 63 Coordinate of center: (38, 41) Color: RED Area: 12462
+CIRCLE Radius: 64 Coordinate of center: (83, 49) Color: VIOLET Area: 12861
+CIRCLE Radius: 64 Coordinate of center: (83, 36) Color: BLUE Area: 12861
+CIRCLE Radius: 68 Coordinate of center: (68, 39) Color: RED Area: 14519
+CIRCLE Radius: 71 Coordinate of center: (38, 38) Color: RED Area: 15828
+CIRCLE Radius: 72 Coordinate of center: (82, 20) Color: BLUE Area: 16277
+CIRCLE Radius: 72 Coordinate of center: (30, 2) Color: YELLOW Area: 16277
+CIRCLE Radius: 72 Coordinate of center: (25, 52) Color: DARKBLUE Area: 16277
+CIRCLE Radius: 73 Coordinate of center: (73, 27) Color: ORANGE Area: 16733
+CIRCLE Radius: 74 Coordinate of center: (48, 39) Color: RED Area: 17194
+CIRCLE Radius: 74 Coordinate of center: (45, 13) Color: ORANGE Area: 17194
+CIRCLE Radius: 75 Coordinate of center: (49, 4) Color: RED Area: 17662
+CIRCLE Radius: 76 Coordinate of center: (65, 24) Color: DARKBLUE Area: 18136
+CIRCLE Radius: 78 Coordinate of center: (94, 14) Color: ORANGE Area: 19103
+CIRCLE Radius: 78 Coordinate of center: (91, 40) Color: ORANGE Area: 19103
+CIRCLE Radius: 78 Coordinate of center: (35, 50) Color: ORANGE Area: 19103
+CIRCLE Radius: 79 Coordinate of center: (4, 51) Color: VIOLET Area: 19596
+CIRCLE Radius: 79 Coordinate of center: (22, 4) Color: ORANGE Area: 19596
+CIRCLE Radius: 80 Coordinate of center: (22, 41) Color: VIOLET Area: 20096
+CIRCLE Radius: 82 Coordinate of center: (87, 0) Color: RED Area: 21113
+CIRCLE Radius: 83 Coordinate of center: (35, 2) Color: DARKBLUE Area: 21631
+CIRCLE Radius: 85 Coordinate of center: (80, 43) Color: GREEN Area: 22686
+CIRCLE Radius: 85 Coordinate of center: (0, 62) Color: DARKBLUE Area: 22686
+CIRCLE Radius: 85 Coordinate of center: (21, 2) Color: BLUE Area: 22686
+CIRCLE Radius: 85 Coordinate of center: (63, 48) Color: GREEN Area: 22686
+CIRCLE Radius: 90 Coordinate of center: (75, 18) Color: DARKBLUE Area: 25434
+CIRCLE Radius: 95 Coordinate of center: (8, 42) Color: YELLOW Area: 28338
+CIRCLE Radius: 99 Coordinate of center: (7, 72) Color: DARKBLUE Area: 30775
